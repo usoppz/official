@@ -1,0 +1,26 @@
+body{
+    background-color: #10141e;
+}
+
+.navbar{border: none;}
+.navbar-default{
+    background-color: #10141e;
+    border-bottom: 1px solid #ffffff;
+}
+.navbar-default .navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+    color: #38f;
+    height: 70px;
+    line-height: 35px;padding:0;
+}
+.navbar-default .navbar-nav>li>a {
+    font-size: 16px;
+    color: #ffffff;
+    height: 70px;
+    line-height: 35px;
+}
+.navbar-default .navbar-nav>li>a:hover{color: #f0ad4e;}
+.navbar-toggle{
+    margin-top: 17px;
+}
